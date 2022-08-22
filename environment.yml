@@ -1,0 +1,30 @@
+name: ion_ml
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - ipython
+  - ipykernel
+  - autopep8
+  - nbconvert
+  - nbformat
+  - matplotlib
+  - bokeh
+  - plotly
+  - h5py
+  - hdf5
+  - joblib
+  - numba
+  - pandas
+  - pandas-datareader
+  - scikit-learn
+  - scipy
+  - seaborn
+  - statsmodels
+  - keras
+  - tensorflow
+  - holoviews
+  - panel
+  - hvplot
+  - opt_einsum
